@@ -1,0 +1,564 @@
+A
+
+    :active { <var>style properties</var> }
+    additive-symbols (@counter-style)
+    ::after (:after)
+    align-content
+    align-items
+    align-self
+    all
+    <angle>
+    animation
+    animation-delay
+    animation-direction
+    animation-duration
+    animation-fill-mode
+    animation-iteration-count
+    animation-name
+    animation-play-state
+    animation-timing-function
+    @annotation (@font-feature-values)
+    annotation()
+    attr()
+
+B
+
+    ::backdrop
+    backface-visibility
+    background
+    background-attachment
+    background-blend-mode
+    background-clip
+    background-color
+    background-image
+    background-origin
+    background-position
+    background-repeat
+    background-size
+    <basic-shape>
+    ::before (:before)
+    <blend-mode>
+    block-size
+    blur()
+    border
+    border-block-end
+    border-block-end-color
+    border-block-end-style
+    border-block-end-width
+    border-block-start
+    border-block-start-color
+    border-block-start-style
+    border-block-start-width
+    border-bottom
+    border-bottom-color
+    border-bottom-left-radius
+    border-bottom-right-radius
+    border-bottom-style
+    border-bottom-width
+    border-collapse
+    border-color
+    border-image
+    border-image-outset
+    border-image-repeat
+    border-image-slice
+    border-image-source
+    border-image-width
+    border-inline-end
+    border-inline-end-color
+    border-inline-end-style
+    border-inline-end-width
+    border-inline-start
+    border-inline-start-color
+    border-inline-start-style
+    border-inline-start-width
+    border-left
+    border-left-color
+    border-left-style
+    border-left-width
+    border-radius
+    border-right
+    border-right-color
+    border-right-style
+    border-right-width
+    border-spacing
+    border-style
+    border-top
+    border-top-color
+    border-top-left-radius
+    border-top-right-radius
+    border-top-style
+    border-top-width
+    border-width
+    bottom
+    box-decoration-break
+    box-shadow
+    box-sizing
+    break-after
+    break-before
+    break-inside
+    brightness()
+
+C
+
+    calc()
+    caption-side
+    ch
+    @character-variant (@font-feature-values)
+    character-variant()
+    @charset
+    :checked { <var>style properties</var> }
+    circle()
+    clear
+    clip
+    clip-path
+    cm
+    <color>
+    color
+    column-count
+    column-fill
+    column-gap
+    column-rule
+    column-rule-color
+    column-rule-style
+    column-rule-width
+    column-span
+    column-width
+    columns
+    content
+    contrast()
+    <counter>
+    counter-increment
+    counter-reset
+    @counter-style
+    cross-fade()
+    cubic-bezier()
+    cursor
+    <custom-ident>
+
+D
+
+    :default { <var>style properties</var> }
+    deg
+    :dir( ltr | rtl ) { <var>style properties</var> }
+    direction
+    :disabled { <var>style properties</var> }
+    display
+    dpcm
+    dpi
+    dppx
+    drop-shadow()
+
+E
+
+    element()
+    ellipse()
+    em
+    empty-cells
+    :empty { <var>style properties</var> }
+    :enabled { <var>style properties</var> }
+    ex
+
+F
+
+    fallback (@counter-style)
+    filter
+    :first-child { <var>style properties</var> }
+    ::first-letter (:first-letter)
+    ::first-line (:first-line)
+    :first-of-type { <var>style properties</var> }
+    :first { <var>style properties</var> }
+    flex
+    flex-basis
+    flex-direction
+    flex-flow
+    flex-grow
+    flex-shrink
+    flex-wrap
+    float
+    :focus { <var>style properties</var> }
+    font
+    @font-face
+    font-family
+    font-family (@font-face)
+    font-feature-settings
+    font-feature-settings (@font-face)
+    @font-feature-values
+    font-kerning
+    font-language-override
+    font-size
+    font-size-adjust
+    font-stretch
+    font-stretch (@font-face)
+    font-style
+    font-style (@font-face)
+    font-synthesis
+    font-variant
+    font-variant (@font-face)
+    font-variant-alternates
+    font-variant-caps
+    font-variant-east-asian
+    font-variant-ligatures
+    font-variant-numeric
+    font-variant-position
+    font-weight
+    font-weight (@font-face)
+    format()
+    format() (@font-face)
+    <frequency>
+    :fullscreen { <var>style properties</var> }
+
+G
+
+    grad
+    <gradient>
+    grayscale()
+    grid
+    grid-area
+    grid-auto-columns
+    grid-auto-flow
+    grid-auto-rows
+    grid-column
+    grid-column-end
+    grid-column-gap
+    grid-column-start
+    grid-gap
+    grid-row
+    grid-row-end
+    grid-row-gap
+    grid-row-start
+    grid-template
+    grid-template-areas
+    grid-template-columns
+    grid-template-rows
+
+H
+
+    height
+    height (@viewport)
+    :hover { <var>style properties</var> }
+    hsl()
+    hsla()
+    hue-rotate()
+    hyphens
+    hz
+
+I
+
+    <image>
+    image()
+    image-orientation
+    image-rendering
+    image-resolution
+    image-set()
+    ime-mode
+    @import
+    in
+    :in-range { <var>style properties</var> }
+    :indeterminate { <var>style properties</var> }
+    inherit
+    initial
+    inline-size
+    inset()
+    <integer>
+    :invalid { <var>style properties</var> }
+    invert()
+    isolation
+
+J
+
+    justify-content
+
+K
+
+    @keyframes
+    khz
+
+L
+
+    :lang( <language-code> ) { <var>style properties</var> }
+    :last-child { <var>style properties</var> }
+    :last-of-type { <var>style properties</var> }
+    left
+    :left { <var>style properties</var> }
+    <length>
+    letter-spacing
+    line-break
+    line-height
+    linear-gradient()
+    :link { <var>style properties</var> }
+    list-style
+    list-style-image
+    list-style-position
+    list-style-type
+    local()
+
+M
+
+    margin
+    margin-block-end
+    margin-block-start
+    margin-bottom
+    margin-inline-end
+    margin-inline-start
+    margin-left
+    margin-right
+    margin-top
+    mask
+    mask-clip
+    mask-composite
+    mask-image
+    mask-mode
+    mask-origin
+    mask-position
+    mask-repeat
+    mask-size
+    mask-type
+    matrix()
+    matrix3d()
+    max-block-size
+    max-height
+    max-height (@viewport)
+    max-inline-size
+    max-width
+    max-width (@viewport)
+    max-zoom (@viewport)
+    @media
+    min-block-size
+    min-height
+    min-height (@viewport)
+    min-inline-size
+    min-width
+    min-width (@viewport)
+    min-zoom (@viewport)
+    minmax()
+    mix-blend-mode
+    mm
+    ms
+
+N
+
+    @namespace
+    negative (@counter-style)
+    :not( <selector># ) { <var>style properties</var> }
+    :nth-child( <an-plus-b> [ of <selector># ]? ) { <var>style properties</var> }
+    :nth-last-child( <an-plus-b> [ of <selector># ]? ) { <var>style properties</var> }
+    :nth-last-of-type( <an-plus-b> ) { <var>style properties</var> }
+    :nth-of-type( <an-plus-b> ) { <var>style properties</var> }
+    <number>
+
+O
+
+    object-fit
+    object-position
+    offset-block-end
+    offset-block-start
+    offset-inline-end
+    offset-inline-start
+    :only-child { <var>style properties</var> }
+    :only-of-type { <var>style properties</var> }
+    opacity
+    opacity()
+    :optional { <var>style properties</var> }
+    order
+    orientation (@viewport)
+    @ornaments (@font-feature-values)
+    ornaments()
+    orphans
+    :out-of-range { <var>style properties</var> }
+    outline
+    outline-color
+    outline-offset
+    outline-style
+    outline-width
+    overflow
+    overflow-wrap
+    overflow-x
+    overflow-y
+
+P
+
+    pad (@counter-style)
+    padding
+    padding-block-end
+    padding-block-start
+    padding-bottom
+    padding-inline-end
+    padding-inline-start
+    padding-left
+    padding-right
+    padding-top
+    @page
+    page-break-after
+    page-break-before
+    page-break-inside
+    pc
+    <percentage>
+    perspective
+    perspective()
+    perspective-origin
+    pointer-events
+    polygon()
+    <position>
+    position
+    prefix (@counter-style)
+    pt
+    px
+
+Q
+
+    q
+    quotes
+
+R
+
+    rad
+    radial-gradient()
+    range (@counter-style)
+    <ratio>
+    :read-only { <var>style properties</var> }
+    :read-write { <var>style properties</var> }
+    rect()
+    rem
+    repeating-linear-gradient()
+    repeating-radial-gradient()
+    :required { <var>style properties</var> }
+    resize
+    <resolution>
+    revert
+    rgb()
+    rgba()
+    right
+    :right { <var>style properties</var> }
+    :root { <var>style properties</var> }
+    rotate()
+    rotate3d()
+    rotateX()
+    rotateY()
+    rotateZ()
+    ruby-align
+    ruby-merge
+    ruby-position
+
+S
+
+    s
+    saturate()
+    scale()
+    scale3d()
+    scaleX()
+    scaleY()
+    scaleZ()
+    :scope { <var>style properties</var> }
+    scroll-behavior
+    scroll-snap-coordinate
+    scroll-snap-destination
+    scroll-snap-type
+    ::selection
+    sepia()
+    <shape>
+    shape-image-threshold
+    shape-margin
+    shape-outside
+    skew()
+    skewX()
+    skewY()
+    speak-as (@counter-style)
+    src (@font-face)
+    steps()
+    <string>
+    @styleset (@font-feature-values)
+    styleset()
+    @stylistic (@font-feature-values)
+    stylistic()
+    suffix (@counter-style)
+    @supports
+    @swash (@font-feature-values)
+    swash()
+    symbols (@counter-style)
+    symbols()
+    system (@counter-style)
+
+T
+
+    tab-size
+    table-layout
+    :target { <var>style properties</var> }
+    text-align
+    text-align-last
+    text-combine-upright
+    text-decoration
+    text-decoration-color
+    text-decoration-line
+    text-decoration-style
+    text-emphasis
+    text-emphasis-color
+    text-emphasis-position
+    text-emphasis-style
+    text-indent
+    text-orientation
+    text-overflow
+    text-rendering
+    text-shadow
+    text-transform
+    text-underline-position
+    <time>
+    <timing-function>
+    top
+    touch-action
+    transform
+    transform-box
+    <transform-function>
+    transform-origin
+    transform-style
+    transition
+    transition-delay
+    transition-duration
+    transition-property
+    transition-timing-function
+    translate()
+    translate3d()
+    translateX()
+    translateY()
+    translateZ()
+    turn
+
+U
+
+    unicode-bidi
+    unicode-range (@font-face)
+    :unresolved { <var>style properties</var> }
+    unset
+    <url>
+    url()
+    <user-ident>
+    user-zoom (@viewport)
+
+V
+
+    :valid { <var>style properties</var> }
+    var()
+    vertical-align
+    vh
+    @viewport
+    visibility
+    :visited { <var>style properties</var> }
+    vmax
+    vmin
+    vw
+
+W
+
+    white-space
+    widows
+    width
+    width (@viewport)
+    will-change
+    word-break
+    word-spacing
+    word-wrap
+    writing-mode
+
+Z
+
+    z-index
+    zoom (@viewport)
